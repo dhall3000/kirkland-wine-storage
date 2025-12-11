@@ -3,9 +3,6 @@ main:
   - title: "What we do"
     url: /#what-we-do
     blank: false
-  - title: "Who we are"
-    url: /#who-we-are
-    blank: false
   - title: "Contact"
     url: /#contact
     blank: false

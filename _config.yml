@@ -10,7 +10,7 @@ oneflow-skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Endow Land LLC"
+title                    : "Kirkland Wine Storage LLC"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
 url                      : "https://test123domain123.de" # the base hostname & protocol for your site
@@ -28,9 +28,10 @@ masthead-opacity         : 0.85 # set to any value between 0 and 1.
 background-image         : # '/assets/images/header.webp' # Remove / out-comment, if you don't want a background image
 background-image-mobile  : # '/assets/images/header.webp' # If you want a different (e.g upright) background image for mobile
 background-image-overlay : rgba(255, 255, 255, 0.5) # Set overlay for the background image
-mailing_address          : "9827 128th Ave NE, Kirkland, WA 98033"
-email                    : "info@endowland.com"
-phone                    : "425-610-8110"
+contact_name             : "Mike Hall"
+mailing_address          : "1234 Main St, Kirkland, WA 98033"
+email                    : "mike@kirklandwinestorage.com"
+phone                    : "425-829-7000"
 
 
 
@@ -67,7 +68,7 @@ footer:
 #    - label: "Dev"
 #      icon: "fab fa-dev"
 #      url: "https://dev.to/per-starke-642"
-  copyright: "Endow Land LLC" # Replace with your own
+  copyright: "Kirkland Wine Storage LLC" # Replace with your own
 #  creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
 #      name: "Endow Land"
 #      url: "https://perstarke-webdev.de"
