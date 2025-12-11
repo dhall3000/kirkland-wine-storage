@@ -1,1 +1,6 @@
 /* Custom stylesheet, add your own styles here */
+.box ul,
+.box ul li {
+    text-align: left !important;
+    margin-left: 1.2em; /* add space so bullets don't touch the edge */
+}
